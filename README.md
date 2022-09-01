@@ -72,6 +72,7 @@
 * [백엔드 개발자를 꿈꾸는 학생개발자에게](https://d2.naver.com/news/3435170)
 * [컴퓨터과학 스스로 학습하기](https://github.com/minnsane/TeachYourselfCS-KR/blob/main/README.md)
 * [10배 이상 뛰어난 개발자가 되는 법](https://yozm.wishket.com/magazine/detail/1373/)
+* [(new)10X 개발자와 주니어 개발자의 3가지 차이점(번역)](https://velog.io/@eddy_song/10X-engineer)
 * [개발자의 학습과 성장](https://present.do/documents/62a02582f6365307fc441c7f?page=0)
 
 ## 조직
@@ -180,3 +181,7 @@
 * [프로그래머 역량 체크](https://docs.google.com/document/d/1hnsBid61Ak7YVMerGZuxbHLFgTZ_pRwUs2-xwbkvNpc/)
 * [개발자들을 위한 테크니컬 라이팅 10계명](https://tech.kakaoenterprise.com/110)
 * [테크니컬 라이팅 4대 원칙](https://tech.kakaoenterprise.com/102)
+
+
+## 코딩테스트
+* [(new)해외 코딩인터뷰 준비](https://leetcode.com/)
