@@ -186,3 +186,4 @@
 
 ## 코딩테스트
 * [(new)해외 코딩인터뷰 준비](https://leetcode.com/)
+* [코딩테스트 가이드](https://blog.naver.com/occidere/222766457656)
