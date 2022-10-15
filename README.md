@@ -187,3 +187,6 @@
 ## 코딩테스트
 * [(new)해외 코딩인터뷰 준비](https://leetcode.com/)
 * [코딩테스트 가이드](https://blog.naver.com/occidere/222766457656)
+
+## 나의 미래
+* [K리그 프로그래머](https://jeho.page/essay/2021/08/11/10%EB%85%84%EC%9D%80-%EC%9D%BC%ED%95%A0-%EC%88%98-%EC%9E%88%EA%B2%A0%EC%A3%A0.html)
